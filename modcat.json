@@ -19,42 +19,11 @@
         "value": [
             {
                 "operating_system": "windows",
-                "versions": [ 
-                    {
-                        "version": "8u191",
-                        "is_tested": true
-                    },
-                    {
-                        "version": "8u181",
-                        "is_tested": true
-                    },
-                    {
-                        "version": "8u171", 
-                        "is_tested": false
-                    }
-                ]
+                "versions": ["8u191", "8u181", "8u171"]
             },
             {
                 "operating_system": "RedHat",
-                "versions": [
-                    {
-                        "version": "1.8.0.191.b12-0", 
-                        "is_tested": true
-                    },
-                    {
-                        "version": "1.8.0.181-3.b13", 
-                        "is_tested": true
-                    },
-                    {
-                        "version": "1.8.0.171-8.b10", 
-                        "is_tested": false
-                    },
-                    {
-                        "version": "1.8.0.161-2.b14", 
-                        "is_tested": false
-                    }
-                
-                ]
+                "versions": ["1.8.0.191.b12-0", "1.8.0.181-3.b13", "1.8.0.171-8.b10", "1.8.0.161-2.b14"]
             }
         ]
     },

@@ -6,6 +6,8 @@ All notable changes to this project will be documented in this file. The format 
 
 [Full Changelog](https://github.com/puppetlabs/puppetlabs-java/compare/3.1.0...3.2.0)
 
+Test
+
 ### Added
 
 - pdksync - \(MODULES-6805\) metadata.json shows support for puppet 6 [\#317](https://github.com/puppetlabs/puppetlabs-java/pull/317) ([tphoney](https://github.com/tphoney))

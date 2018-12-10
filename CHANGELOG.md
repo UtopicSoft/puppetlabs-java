@@ -6,7 +6,6 @@ All notable changes to this project will be documented in this file. The format 
 
 [Full Changelog](https://github.com/puppetlabs/puppetlabs-java/compare/3.1.0...3.2.0)
 
-Test
 
 ### Added
 

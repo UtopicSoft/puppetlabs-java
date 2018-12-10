@@ -14,6 +14,7 @@
 ## Overview
 
 Installs the correct Java package on various platforms.
+Test
 
 ## Module Description
 

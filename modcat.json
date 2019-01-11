@@ -18,7 +18,7 @@
         "description": "supported product versions",
         "value": [
             {
-                "operating_system": "windows 10",
+                "operating_system": "windowsTen",
                 "versions": ["8u1917", "8u1817", "8u1717"]
             },
             {

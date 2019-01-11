@@ -12,7 +12,7 @@
     {
         "name": "capabilities",
         "description": "upgrade, downgrade, install, uninstall",
-        "value": [ "upgrade", "install", ]
+        "value": [ "upgrade", "install" ]
     },
     {
         "name": "product_versions",

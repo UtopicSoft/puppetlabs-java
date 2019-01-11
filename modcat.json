@@ -48,7 +48,7 @@
         "description": "Property unknown to MC: list of stacks this module is part of",
         "value": [ "tomcat", "jboss", "webshpere" ]
     }
-{
+    {
         "name": "testing modcat",
         "description": "Property unknown to MC: list of stacks this module is part of",
         "value": [ "tomcat7", "jboss7", "webshpere7" ]

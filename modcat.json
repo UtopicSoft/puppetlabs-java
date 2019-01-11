@@ -11,7 +11,7 @@
     {
         "name": "capabilities",
         "description": "upgrade, downgrade, install, uninstall",
-        "value": [ "upgrade", "install" ]
+        "value": [ "upgrade", "install", "start-service" ]
     },
     {
         "name": "product_versions",
